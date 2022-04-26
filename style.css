@@ -1,5 +1,5 @@
 body {
-    background-color: #93C8E5;
+    background-color: #18234d;
     color: #FFFFFF;
     font-family: 'Nunito Sans', sans-serif;
 }
@@ -23,6 +23,7 @@ h2 {
 h3 {
     color: #F1E299;
     font-weight: lighter;
+    font-size: 25px
 }
 
 h4 {
@@ -38,7 +39,7 @@ h5 {
 }
 
 .topnav {
-  background-color: #000000;
+  background-color: #000926;
   overflow: hidden;
   width: 1000px;
   padding-left: 25px;
@@ -62,7 +63,7 @@ h5 {
 }
 
 .topnav a.active {
-  background-color: #A1A1F5;
+  background-color: #202e61;
   color: white;
 }
 
@@ -77,7 +78,7 @@ header {
 }
 
 main {
-    background-color: #1163A7;
+    background-color: #202e61;
     width: 1000px;
     padding: 25px;
     margin-left: auto;
