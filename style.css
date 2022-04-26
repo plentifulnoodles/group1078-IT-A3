@@ -89,6 +89,9 @@ main {
 	height: auto;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .row {
@@ -98,6 +101,10 @@ main {
 .column {
   flex: 33.33%;
   padding: 5px;
+  text-align: center;
+  text-align: justify;
+
+
 }
 
 .centredimage {
