@@ -1,15 +1,15 @@
 body {
-    background-color: #18234d;
+    background-color: #051F20;
     color: #FFFFFF;
     font-family: 'Nunito Sans', sans-serif;
 }
 
 a {
-    color: #EEAF10;
+    color: #F1E299;
 }
 
 h1 {
-    color: #E7AF53;
+    color: #DAF1DE;
     font-weight: lighter;
     font-size: 40px
 }
@@ -39,7 +39,7 @@ h5 {
 }
 
 .topnav {
-  background-color: #000926;
+  background-color: #04191A;
   overflow: hidden;
   width: 1000px;
   padding-left: 25px;
@@ -63,13 +63,13 @@ h5 {
 }
 
 .topnav a.active {
-  background-color: #202e61;
+  background-color: #163832;
   color: white;
 }
 
 header {
 
-    background-color: #000E3A;
+    background-color: #0B2B26;
     width: 1000px;
     padding: 25px;
     margin-left: auto;
@@ -78,7 +78,7 @@ header {
 }
 
 main {
-    background-color: #202e61;
+    background-color: #163832;
     width: 1000px;
     padding: 25px;
     margin-left: auto;
